@@ -37,7 +37,3 @@ $./run.sh
         **Syntax** `unregister` alias `u`
     11. **Exit Programe** : Terminates the programme.  
         **Syntax** `exit` alias `e`
-
-#� �b�y�t�e�c�o�i�n�-�b�a�n�k�e�r�
-�
-�
